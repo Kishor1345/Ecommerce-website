@@ -1,0 +1,977 @@
+@media (min-width:320px) and (max-width:480px){
+    #parent-5{
+        width: 100%;
+        height: 1350px;
+        /* border: 1px solid black; */
+        display: flex;
+        justify-content: center;
+    }
+    #parent-5>div{
+        width: 300px;
+        height: 1325px;
+        /* border: 1px solid black; */
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #parent-5>div>div:nth-child(1){
+        width: 300px;
+        height: 38px;
+        /* border: 1px solid black; */
+        position: absolute;
+        top: 20px;
+    }
+    #parent-5>div>div:nth-child(1)>p{
+        font-size: 25px;
+    }
+    #parent-5>div>div:nth-child(2){
+        width: 200px;
+        height: 280px;
+        /* border: 1px solid black; */
+        position: absolute;
+        top: 90px;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(2)>div{
+        width: 200px;
+        height: 227px;
+        background-image: url("/Assets/E-commerce_Assets/9.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(2)>p:nth-child(2){
+        font-size: 14px;
+        position: absolute;
+        left: 20px;
+        font-weight: 450;
+        bottom: 24px;
+    }
+    #parent-5>div>div:nth-child(2)>p:nth-child(3){
+        font-size: 10px;
+        position: absolute;
+        left: 20px;
+        bottom: 5px;
+    }
+    #parent-5>div>div:nth-child(2)>button:nth-child(4){
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        border: none;
+        background-color: black;
+        position: absolute;
+        left: 155px;
+        bottom: 10px;
+        transform: rotate(327deg);
+        cursor: pointer;
+    }
+    #parent-5>div>div:nth-child(3){
+        width: 200px;
+        height: 280px;
+        /* border: 1px solid black; */
+        position: absolute;
+        top: 400px;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(3)>div{
+        width: 200px;
+        height: 227px;
+          background-image: url("/Assets/E-commerce_Assets/10.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(3)>p:nth-child(2){
+        font-size: 14px;
+        position: absolute;
+        left: 20px;
+        font-weight: 450;
+        bottom: 24px;
+    }
+    #parent-5>div>div:nth-child(3)>p:nth-child(3){
+        font-size: 10px;
+        position: absolute;
+        left: 20px;
+        bottom: 5px;
+    }
+    #parent-5>div>div:nth-child(3)>button:nth-child(4){
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        border: none;
+        background-color: black;
+        position: absolute;
+        left: 155px;
+        bottom: 10px;
+        transform: rotate(327deg);
+        cursor: pointer;
+    }
+    #parent-5>div>div:nth-child(4){
+        width: 200px;
+        height: 280px;
+        /* border: 1px solid black; */
+        position: absolute;
+        top: 715px;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(4)>div{
+        width: 200px;
+        height: 227px;
+          background-image: url("/Assets/E-commerce_Assets/11.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(4)>p:nth-child(2){
+        font-size: 14px;
+        position: absolute;
+        left: 20px;
+        font-weight: 450;
+        bottom: 24px;
+    }
+    #parent-5>div>div:nth-child(4)>p:nth-child(3){
+        font-size: 10px;
+        position: absolute;
+        left: 20px;
+        bottom: 5px;
+    }
+    #parent-5>div>div:nth-child(4)>button:nth-child(4){
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        border: none;
+        background-color: black;
+        position: absolute;
+        left: 155px;
+        bottom: 10px;
+        transform: rotate(327deg);
+        cursor: pointer;
+    }
+    #parent-5>div>div:nth-child(5){
+        width: 200px;
+        height: 280px;
+        /* border: 1px solid black; */
+        position: absolute;
+        bottom: 20px;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(5)>div{
+        width: 200px;
+        height: 227px;
+          background-image: url("/Assets/E-commerce_Assets/12.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(5)>p:nth-child(2){
+        font-size: 14px;
+        position: absolute;
+        left: 20px;
+        bottom: 24px;
+        font-weight: 450;
+    }
+    #parent-5>div>div:nth-child(5)>p:nth-child(3){
+        font-size: 10px;
+        position: absolute;
+        left: 20px;
+        bottom: 5px;
+    }
+    #parent-5>div>div:nth-child(5)>button:nth-child(4){
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        border: none;
+        background-color:black;
+        position: absolute;
+        left: 155px;
+        bottom: 10px;
+        transform: rotate(327deg);
+        cursor: pointer;
+    }
+}
+@media (min-width:480px) and (max-width:600px){
+    #parent-5{
+        width: 100%;
+        height: 1350px;
+        /* border: 1px solid black; */
+        display: flex;
+        justify-content: center;
+    }
+    #parent-5>div{
+        width: 300px;
+        height: 1325px;
+        /* border: 1px solid black; */
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #parent-5>div>div:nth-child(1){
+        width: 300px;
+        height: 38px;
+        /* border: 1px solid black; */
+        position: absolute;
+        top: 20px;
+    }
+    #parent-5>div>div:nth-child(1)>p{
+        font-size: 25px;
+    }
+    #parent-5>div>div:nth-child(2){
+        width: 200px;
+        height: 280px;
+        /* border: 1px solid black; */
+        position: absolute;
+        top: 90px;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(2)>div{
+        width: 200px;
+        height: 227px;
+        background-image: url("/Assets/E-commerce_Assets/9.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(2)>p:nth-child(2){
+        font-size: 14px;
+        position: absolute;
+        left: 20px;
+        font-weight: 450;
+        bottom: 24px;
+    }
+    #parent-5>div>div:nth-child(2)>p:nth-child(3){
+        font-size: 10px;
+        position: absolute;
+        left: 20px;
+        bottom: 5px;
+    }
+    #parent-5>div>div:nth-child(2)>button:nth-child(4){
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        border: none;
+        background-color: black;
+        position: absolute;
+        left: 155px;
+        bottom: 10px;
+        transform: rotate(327deg);
+        cursor: pointer;
+    }
+    #parent-5>div>div:nth-child(3){
+        width: 200px;
+        height: 280px;
+        /* border: 1px solid black; */
+        position: absolute;
+        top: 400px;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(3)>div{
+        width: 200px;
+        height: 227px;
+          background-image: url("/Assets/E-commerce_Assets/10.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(3)>p:nth-child(2){
+        font-size: 14px;
+        position: absolute;
+        left: 20px;
+        font-weight: 450;
+        bottom: 24px;
+    }
+    #parent-5>div>div:nth-child(3)>p:nth-child(3){
+        font-size: 10px;
+        position: absolute;
+        left: 20px;
+        bottom: 5px;
+    }
+    #parent-5>div>div:nth-child(3)>button:nth-child(4){
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        border: none;
+        background-color: black;
+        position: absolute;
+        left: 155px;
+        bottom: 10px;
+        transform: rotate(327deg);
+        cursor: pointer;
+    }
+    #parent-5>div>div:nth-child(4){
+        width: 200px;
+        height: 280px;
+        /* border: 1px solid black; */
+        position: absolute;
+        top: 715px;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(4)>div{
+        width: 200px;
+        height: 227px;
+          background-image: url("/Assets/E-commerce_Assets/11.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(4)>p:nth-child(2){
+        font-size: 14px;
+        position: absolute;
+        left: 20px;
+        font-weight: 450;
+        bottom: 24px;
+    }
+    #parent-5>div>div:nth-child(4)>p:nth-child(3){
+        font-size: 10px;
+        position: absolute;
+        left: 20px;
+        bottom: 5px;
+    }
+    #parent-5>div>div:nth-child(4)>button:nth-child(4){
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        border: none;
+        background-color: black;
+        position: absolute;
+        left: 155px;
+        bottom: 10px;
+        transform: rotate(327deg);
+        cursor: pointer;
+    }
+    #parent-5>div>div:nth-child(5){
+        width: 200px;
+        height: 280px;
+        /* border: 1px solid black; */
+        position: absolute;
+        bottom: 20px;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(5)>div{
+        width: 200px;
+        height: 227px;
+          background-image: url("/Assets/E-commerce_Assets/12.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(5)>p:nth-child(2){
+        font-size: 14px;
+        position: absolute;
+        left: 20px;
+        bottom: 24px;
+        font-weight: 450;
+    }
+    #parent-5>div>div:nth-child(5)>p:nth-child(3){
+        font-size: 10px;
+        position: absolute;
+        left: 20px;
+        bottom: 5px;
+    }
+    #parent-5>div>div:nth-child(5)>button:nth-child(4){
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        border: none;
+        background-color:black;
+        position: absolute;
+        left: 155px;
+        bottom: 10px;
+        transform: rotate(327deg);
+        cursor: pointer;
+    }
+}
+@media (min-width:600px) and (max-width:767px){
+    #parent-5{
+        width: 100%;
+        height: 1350px;
+        /* border: 1px solid black; */
+        display: flex;
+        justify-content: center;
+    }
+    #parent-5>div{
+        width: 300px;
+        height: 1325px;
+        /* border: 1px solid black; */
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #parent-5>div>div:nth-child(1){
+        width: 300px;
+        height: 38px;
+        /* border: 1px solid black; */
+        position: absolute;
+        top: 20px;
+    }
+    #parent-5>div>div:nth-child(1)>p{
+        font-size: 25px;
+    }
+    #parent-5>div>div:nth-child(2){
+        width: 200px;
+        height: 280px;
+        /* border: 1px solid black; */
+        position: absolute;
+        top: 90px;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(2)>div{
+        width: 200px;
+        height: 227px;
+        background-image: url("/Assets/E-commerce_Assets/9.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(2)>p:nth-child(2){
+        font-size: 14px;
+        position: absolute;
+        left: 20px;
+        font-weight: 450;
+        bottom: 24px;
+    }
+    #parent-5>div>div:nth-child(2)>p:nth-child(3){
+        font-size: 10px;
+        position: absolute;
+        left: 20px;
+        bottom: 5px;
+    }
+    #parent-5>div>div:nth-child(2)>button:nth-child(4){
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        border: none;
+        background-color: black;
+        position: absolute;
+        left: 155px;
+        bottom: 10px;
+        transform: rotate(327deg);
+        cursor: pointer;
+    }
+    #parent-5>div>div:nth-child(3){
+        width: 200px;
+        height: 280px;
+        /* border: 1px solid black; */
+        position: absolute;
+        top: 400px;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(3)>div{
+        width: 200px;
+        height: 227px;
+          background-image: url("/Assets/E-commerce_Assets/10.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(3)>p:nth-child(2){
+        font-size: 14px;
+        position: absolute;
+        left: 20px;
+        font-weight: 450;
+        bottom: 24px;
+    }
+    #parent-5>div>div:nth-child(3)>p:nth-child(3){
+        font-size: 10px;
+        position: absolute;
+        left: 20px;
+        bottom: 5px;
+    }
+    #parent-5>div>div:nth-child(3)>button:nth-child(4){
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        border: none;
+        background-color: black;
+        position: absolute;
+        left: 155px;
+        bottom: 10px;
+        transform: rotate(327deg);
+        cursor: pointer;
+    }
+    #parent-5>div>div:nth-child(4){
+        width: 200px;
+        height: 280px;
+        /* border: 1px solid black; */
+        position: absolute;
+        top: 715px;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(4)>div{
+        width: 200px;
+        height: 227px;
+          background-image: url("/Assets/E-commerce_Assets/11.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(4)>p:nth-child(2){
+        font-size: 14px;
+        position: absolute;
+        left: 20px;
+        font-weight: 450;
+        bottom: 24px;
+    }
+    #parent-5>div>div:nth-child(4)>p:nth-child(3){
+        font-size: 10px;
+        position: absolute;
+        left: 20px;
+        bottom: 5px;
+    }
+    #parent-5>div>div:nth-child(4)>button:nth-child(4){
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        border: none;
+        background-color: black;
+        position: absolute;
+        left: 155px;
+        bottom: 10px;
+        transform: rotate(327deg);
+        cursor: pointer;
+    }
+    #parent-5>div>div:nth-child(5){
+        width: 200px;
+        height: 280px;
+        /* border: 1px solid black; */
+        position: absolute;
+        bottom: 20px;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(5)>div{
+        width: 200px;
+        height: 227px;
+          background-image: url("/Assets/E-commerce_Assets/12.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(5)>p:nth-child(2){
+        font-size: 14px;
+        position: absolute;
+        left: 20px;
+        bottom: 24px;
+        font-weight: 450;
+    }
+    #parent-5>div>div:nth-child(5)>p:nth-child(3){
+        font-size: 10px;
+        position: absolute;
+        left: 20px;
+        bottom: 5px;
+    }
+    #parent-5>div>div:nth-child(5)>button:nth-child(4){
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        border: none;
+        background-color:black;
+        position: absolute;
+        left: 155px;
+        bottom: 10px;
+        transform: rotate(327deg);
+        cursor: pointer;
+    }
+}
+@media (min-width:767px) and (max-width:1200px){
+    #parent-5{
+        width: 100%;
+        height: 750px;
+        /* border: 1px solid black; */
+        display: flex;
+        justify-content: center;
+    }
+    #parent-5>div{
+        width: 610px;
+        height: 728px;
+        /* border: 1px solid black; */
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #parent-5>div>div:nth-child(1){
+        width: 290px;
+        height: 38px;
+        /* border: 1px solid black; */
+        position: absolute;
+        top: 20px;
+    }
+    #parent-5>div>div:nth-child(1)>p{
+        font-size: 25px;
+    }
+    #parent-5>div>div:nth-child(2){
+        width: 200px;
+        height: 280px;
+        /* border: 1px solid black; */
+        position: absolute;
+        top: 100px;
+        left: 60px;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(2)>div{
+        width: 200px;
+        height: 227px;
+        background-image: url("/Assets/E-commerce_Assets/9.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(2)>p:nth-child(2){
+        font-size: 14px;
+        position: absolute;
+        left: 20px;
+        font-weight: 450;
+        bottom: 24px;
+    }
+    #parent-5>div>div:nth-child(2)>p:nth-child(3){
+        font-size: 10px;
+        position: absolute;
+        left: 20px;
+        bottom: 5px;
+    }
+    #parent-5>div>div:nth-child(2)>button:nth-child(4){
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        border: none;
+        background-color: black;
+        position: absolute;
+        left: 155px;
+        bottom: 10px;
+        transform: rotate(327deg);
+        cursor: pointer;
+    }
+    #parent-5>div>div:nth-child(3){
+        width: 200px;
+        height: 280px;
+        /* border: 1px solid black; */
+        position: absolute;
+        top: 100px;
+        border-radius: 20px;
+        left: 340px;
+    }
+    #parent-5>div>div:nth-child(3)>div{
+        width: 200px;
+        height: 227px;
+          background-image: url("/Assets/E-commerce_Assets/10.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(3)>p:nth-child(2){
+        font-size: 14px;
+        position: absolute;
+        left: 20px;
+        font-weight: 450;
+        bottom: 24px;
+    }
+    #parent-5>div>div:nth-child(3)>p:nth-child(3){
+        font-size: 10px;
+        position: absolute;
+        left: 20px;
+        bottom: 5px;
+    }
+    #parent-5>div>div:nth-child(3)>button:nth-child(4){
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        border: none;
+        background-color: black;
+        position: absolute;
+        left: 155px;
+        bottom: 10px;
+        transform: rotate(327deg);
+        cursor: pointer;
+    }
+    #parent-5>div>div:nth-child(4){
+        width: 200px;
+        height: 280px;
+        /* border: 1px solid black; */
+        position: absolute;
+        top: 413px;
+        left: 340px;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(4)>div{
+        width: 200px;
+        height: 227px;
+          background-image: url("/Assets/E-commerce_Assets/11.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(4)>p:nth-child(2){
+        font-size: 14px;
+        position: absolute;
+        left: 20px;
+        font-weight: 450;
+        bottom: 24px;
+    }
+    #parent-5>div>div:nth-child(4)>p:nth-child(3){
+        font-size: 10px;
+        position: absolute;
+        left: 20px;
+        bottom: 5px;
+    }
+    #parent-5>div>div:nth-child(4)>button:nth-child(4){
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        border: none;
+        background-color: black;
+        position: absolute;
+        left: 155px;
+        bottom: 10px;
+        transform: rotate(327deg);
+        cursor: pointer;
+    }
+    #parent-5>div>div:nth-child(5){
+        width: 200px;
+        height: 280px;
+        /* border: 1px solid black; */
+        position: absolute;
+        top: 413px;
+        left: 60px;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(5)>div{
+        width: 200px;
+        height: 227px;
+          background-image: url("/Assets/E-commerce_Assets/12.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(5)>p:nth-child(2){
+        font-size: 14px;
+        position: absolute;
+        left: 20px;
+        bottom: 24px;
+        font-weight: 450;
+    }
+    #parent-5>div>div:nth-child(5)>p:nth-child(3){
+        font-size: 10px;
+        position: absolute;
+        left: 20px;
+        bottom: 5px;
+    }
+    #parent-5>div>div:nth-child(5)>button:nth-child(4){
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        border: none;
+        background-color:black;
+        position: absolute;
+        left: 155px;
+        bottom: 10px;
+        transform: rotate(327deg);
+        cursor: pointer;
+    }
+}
+@media (min-width:1200px) and (max-width:1600px){
+     #parent-5{
+        width: 100%;
+        height: 500px;
+        /* border: 1px solid black; */
+        display: flex;
+        justify-content: center;
+    }
+    #parent-5>div{
+        width: 1510px;
+        height: 528px;
+        /* border: 1px solid black; */
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #parent-5>div>div:nth-child(1){
+        width: 470px;
+        height: 38px;
+        /* border: 1px solid black; */
+        position: absolute;
+        top: 20px;
+        left: 575px;
+    }
+    #parent-5>div>div:nth-child(1)>p{
+        font-size: 35px;
+    }
+    #parent-5>div>div:nth-child(2){
+        width: 270px;
+        height: 315px;
+        /* border: 1px solid black; */
+        position: absolute;
+        top: 115px;
+        left: 60px;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(2)>div{
+        width: 269px;
+        height: 257px;
+        background-image: url("/Assets/E-commerce_Assets/9.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(2)>p:nth-child(2){
+        font-size: 14px;
+        position: absolute;
+        left: 20px;
+        font-weight: 450;
+        bottom: 24px;
+    }
+    #parent-5>div>div:nth-child(2)>p:nth-child(3){
+        font-size: 10px;
+        position: absolute;
+        left: 20px;
+        bottom: 5px;
+    }
+    #parent-5>div>div:nth-child(2)>button:nth-child(4){
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        border: none;
+        background-color: black;
+        position: absolute;
+        left: 195px;
+        bottom: 5px;
+        transform: rotate(327deg);
+        cursor: pointer;
+    }
+    #parent-5>div>div:nth-child(3){
+        width: 270px;
+        height: 315px;
+        /* border: 1px solid black; */
+        position: absolute;
+        top: 115px;
+        border-radius: 20px;
+        left: 440px;
+    }
+    #parent-5>div>div:nth-child(3)>div{
+        width: 269px;
+        height: 257px;
+        background-image: url("/Assets/E-commerce_Assets/10.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(3)>p:nth-child(2){
+        font-size: 14px;
+        position: absolute;
+        left: 20px;
+        font-weight: 450;
+        bottom: 24px;
+    }
+    #parent-5>div>div:nth-child(3)>p:nth-child(3){
+        font-size: 10px;
+        position: absolute;
+        left: 20px;
+        bottom: 5px;
+    }
+    #parent-5>div>div:nth-child(3)>button:nth-child(4){
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        border: none;
+        background-color: black;
+        position: absolute;
+        left: 195px;
+        bottom: 5px;
+        transform: rotate(327deg);
+        cursor: pointer;
+    }
+    #parent-5>div>div:nth-child(4){
+        width: 270px;
+        height: 315px;
+        /* border: 1px solid black; */
+        position: absolute;
+        top: 115px;
+        left: 1190px;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(4)>div{
+        width: 269px;
+        height: 257px;
+        background-image: url("/Assets/E-commerce_Assets/12.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(4)>p:nth-child(2){
+        font-size: 14px;
+        position: absolute;
+        left: 20px;
+        font-weight: 450;
+        bottom: 24px;
+    }
+    #parent-5>div>div:nth-child(4)>p:nth-child(3){
+        font-size: 10px;
+        position: absolute;
+        left: 20px;
+        bottom: 5px;
+    }
+    #parent-5>div>div:nth-child(4)>button:nth-child(4){
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        border: none;
+        background-color: black;
+        position: absolute;
+         left: 195px;
+        bottom: 5px;
+        transform: rotate(327deg);
+        cursor: pointer;
+    }
+    #parent-5>div>div:nth-child(5){
+        width: 270px;
+        height: 315px;
+        /* border: 1px solid black; */
+        position: absolute;
+        top: 115px;
+        left: 803px;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(5)>div{
+        width: 269px;
+        height: 257px;
+        background-image: url("/Assets/E-commerce_Assets/11.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 20px;
+    }
+    #parent-5>div>div:nth-child(5)>p:nth-child(2){
+        font-size: 14px;
+        position: absolute;
+        left: 20px;
+        bottom: 24px;
+        font-weight: 450;
+    }
+    #parent-5>div>div:nth-child(5)>p:nth-child(3){
+        font-size: 10px;
+        position: absolute;
+        left: 20px;
+        bottom: 5px;
+    }
+    #parent-5>div>div:nth-child(5)>button:nth-child(4){
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        border: none;
+        background-color:black;
+        position: absolute;
+        left: 195px;
+        bottom: 5px;
+        transform: rotate(327deg);
+        cursor: pointer;
+    }
+}

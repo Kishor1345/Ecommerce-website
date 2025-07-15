@@ -1,0 +1,1144 @@
+@media (min-width:320px) and (max-width:480px){
+    #parent-3{
+        width: 100%;
+        height: 1325px;
+        /* border: 1px solid black; */
+        display: flex;
+        justify-content: center;
+    }
+    #parent-3>div{
+        width: 300px;
+        height: 1300px;
+        /* border: 1px solid black; */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        position: relative;
+    }
+    #parent-3>div>div:nth-child(1){
+        width: 200px;
+        height: 50px;
+        /* background-color: aqua; */
+        position: absolute;
+        top: 40px;
+        left: 50px;
+    }
+    #parent-3>div>div:nth-child(1)>p{
+        font-size: 25px;
+    }
+    #parent-3>div>div:nth-child(2){
+        width: 275px;
+        height: 200px;
+        background-image: url("/Assets/E-commerce_Assets/bigsalezone1.jpg");
+        background-repeat: no-repeat;
+        background-position: right;
+        background-size: cover;
+        position: absolute;
+        top: 110px;
+        border-radius: 25px;
+        color: white;
+    }
+    #parent-3>div>div:nth-child(3){
+        width: 275px;
+        height: 200px;
+        background-image: url("/Assets/E-commerce_Assets/bigsalezone2.jpg");
+        background-repeat: no-repeat;
+        background-position: left;
+        background-size: cover;
+        position: absolute;
+        top: 345px;
+        border-radius: 25px;
+        color: white;
+    }
+    #parent-3>div>div:nth-child(4){
+        width: 275px;
+        height: 200px;
+        background-image: url("/Assets/E-commerce_Assets/bigsalezone3.jpg");
+        background-repeat: no-repeat;
+        background-position: left;
+        background-size: cover;
+        position: absolute;
+        top: 580px;
+        border-radius: 25px;
+        color: white;
+    }
+    #parent-3>div>div:nth-child(5){
+        width: 275px;
+        height: 200px;
+        background-image: url("/Assets/E-commerce_Assets/bigsalezone4.jpg");
+        background-repeat: no-repeat;
+        background-position: left;
+        background-size: cover;
+        position: absolute;
+        top:814px;
+        border-radius: 25px;
+        color: white;
+    }
+    #parent-3>div>div:nth-child(6){
+        width: 275px;
+        height: 200px;
+        background-image: url("/Assets/E-commerce_Assets/bigsalezone5.jpg");
+        background-repeat: no-repeat;
+        background-position: right;
+        background-size: cover;
+        position: absolute;
+        bottom: 48px;
+        border-radius: 25px; 
+        color: white; 
+    }
+    #parent-3>div>div:nth-child(2)>p:nth-child(1){
+        font-size: 15px;
+        font-weight: 700;
+        position: absolute;
+        top: 45px;
+        left: 175px;
+    }
+    #parent-3>div>div:nth-child(2)>p:nth-child(2){
+        font-size: 16px;
+        font-weight: 500;
+        position: absolute;
+        top: 89px;
+        left: 175px;
+    }
+    #parent-3>div>div:nth-child(2)>button:nth-child(4){
+        width: 90px;
+        height: 28px;
+        font-size: 12px;
+        position: absolute;
+        top: 225px;
+        left: 264px;
+        border-radius: 10px;
+        color: white;
+        border: 1px solid white;
+        background-color:rgba(252, 252, 252,0.1);
+        cursor: pointer;
+    }
+    #parent-3>div>div:nth-child(3)>p:nth-child(1){
+        font-size: 15px;
+        font-weight: 700;
+        position: absolute;
+        top: 45px;
+        left: 20px;
+    }
+    #parent-3>div>div:nth-child(3)>p:nth-child(2){
+        font-size: 16px;
+        font-weight: 500;
+        position: absolute;
+        top: 98px;
+        left: 20px;
+    }
+    #parent-3>div>div:nth-child(3)>button:nth-child(4){
+        width: 90px;
+        height: 28px;
+        font-size: 12px;
+        position: absolute;
+        top: 155px;
+        left: 20px;
+        border-radius: 10px;
+        color: white;
+        border: 1px solid white;
+        background-color:rgba(252, 252, 252,0.1);
+        cursor: pointer;
+    }
+    #parent-3>div>div:nth-child(4)>p:nth-child(1){
+        font-size: 15px;
+        font-weight: 700;
+        position: absolute;
+        top: 44px;
+        left: 150px;
+    }
+     #parent-3>div>div:nth-child(4)>p:nth-child(2){
+        font-size: 16px;
+        font-weight: 500;
+        position: absolute;
+        top: 102px;
+        left: 149px;
+    }
+    #parent-3>div>div:nth-child(4)>button:nth-child(4){
+        width: 90px;
+        height: 28px;
+        font-size: 12px;
+        position: absolute;
+        top: 160px;
+        left: 161px;
+        border-radius: 10px;
+        color: white;
+        border: 1px solid white;
+        background-color:rgba(252, 252, 252,0.1);
+        cursor: pointer;
+    }
+    #parent-3>div>div:nth-child(5)>p:nth-child(1){
+        font-size: 15px;
+        font-weight: 700;
+        position: absolute;
+        top: 45px;
+        left: 20px;
+    }
+    #parent-3>div>div:nth-child(5)>p:nth-child(2){
+        font-size: 16px;
+        font-weight: 500;
+        position: absolute;
+        top: 98px;
+        left: 20px;
+    }
+    #parent-3>div>div:nth-child(5)>button:nth-child(4){
+        width: 90px;
+        height: 28px;
+        font-size: 12px;
+        position: absolute;
+        top: 155px;
+        left: 20px;
+        border-radius: 10px;
+        color: white;
+        border: 1px solid white;
+        background-color:rgba(252, 252, 252,0.1);
+        cursor: pointer;
+    }
+    #parent-3>div>div:nth-child(6)>p:nth-child(1){
+        font-size: 15px;
+        font-weight: 700;
+        position: absolute;
+        top: 60px;
+        left: 175px;
+    }
+    #parent-3>div>div:nth-child(6)>p:nth-child(2){
+        font-size: 16px;
+        font-weight: 500;
+        position: absolute;
+        top: 89px;
+        left: 175px;
+    }
+    #parent-3>div>div:nth-child(6)>button:nth-child(4){
+        width: 90px;
+        height: 28px;
+        font-size: 12px;
+        position: absolute;
+        top: 151px;
+        left: 172px;
+        border-radius: 10px;
+        color: white;
+        border: 1px solid white;
+        background-color:rgba(252, 252, 252,0.1);
+        cursor: pointer;
+    }
+    #parent-3>div>div>i:nth-child(3){
+        display: none;
+    }
+}
+@media (min-width:480px) and (max-width:600px){
+    #parent-3{
+        width: 100%;
+        height: 1325px;
+        /* border: 1px solid black; */
+        display: flex;
+        justify-content: center;
+    }
+    #parent-3>div{
+        width: 500px;
+        height: 1300px;
+        /* border: 1px solid black; */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        position: relative;
+    }
+    #parent-3>div>div:nth-child(1){
+        width: 200px;
+        height: 50px;
+        /* background-color: aqua; */
+        position: absolute;
+        top: 40px;
+        left: 150px;
+    }
+    #parent-3>div>div:nth-child(1)>p{
+        font-size: 25px;
+    }
+    #parent-3>div>div:nth-child(2){
+        width: 300px;
+        height: 200px;
+        background-image: url("/Assets/E-commerce_Assets/bigsalezone1.jpg");
+        background-repeat: no-repeat;
+        background-position: right;
+        background-size: cover;
+        position: absolute;
+        top: 110px;
+        border-radius: 25px;
+        color: white;
+    }
+    #parent-3>div>div:nth-child(3){
+        width: 300px;
+        height: 200px;
+        background-image: url("/Assets/E-commerce_Assets/bigsalezone2.jpg");
+        background-repeat: no-repeat;
+        background-position: left;
+        background-size: cover;
+        position: absolute;
+        top: 345px;
+        border-radius: 25px;
+        color: white;
+    }
+    #parent-3>div>div:nth-child(4){
+        width: 300px;
+        height: 200px;
+        background-image: url("/Assets/E-commerce_Assets/bigsalezone3.jpg");
+        background-repeat: no-repeat;
+        background-position: left;
+        background-size: cover;
+        position: absolute;
+        top: 580px;
+        border-radius: 25px;
+        color: white;
+    }
+    #parent-3>div>div:nth-child(5){
+        width: 300px;
+        height: 200px;
+        background-image: url("/Assets/E-commerce_Assets/bigsalezone4.jpg");
+        background-repeat: no-repeat;
+        background-position: left;
+        background-size: cover;
+        position: absolute;
+        top:814px;
+        border-radius: 25px;
+        color: white;
+    }
+    #parent-3>div>div:nth-child(6){
+        width: 300px;
+        height: 200px;
+        background-image: url("/Assets/E-commerce_Assets/bigsalezone5.jpg");
+        background-repeat: no-repeat;
+        background-position: right;
+        background-size: cover;
+        position: absolute;
+        bottom: 48px;
+        border-radius: 25px; 
+        color: white; 
+    }
+    #parent-3>div>div:nth-child(2)>p:nth-child(1){
+        font-size: 15px;
+        font-weight: 700;
+        position: absolute;
+        top: 45px;
+        left: 175px;
+    }
+    #parent-3>div>div:nth-child(2)>p:nth-child(2){
+        font-size: 16px;
+        font-weight: 500;
+        position: absolute;
+        top: 89px;
+        left: 175px;
+    }
+    #parent-3>div>div:nth-child(2)>button:nth-child(4){
+        width: 90px;
+        height: 28px;
+        font-size: 12px;
+        position: absolute;
+        top: 151px;
+        left: 172px;
+        border-radius: 10px;
+        color: white;
+        border: 1px solid white;
+        background-color:rgba(252, 252, 252,0.1);
+        cursor: pointer;
+    }
+    #parent-3>div>div:nth-child(3)>p:nth-child(1){
+        font-size: 15px;
+        font-weight: 700;
+        position: absolute;
+        top: 45px;
+        left: 20px;
+    }
+    #parent-3>div>div:nth-child(3)>p:nth-child(2){
+        font-size: 16px;
+        font-weight: 500;
+        position: absolute;
+        top: 98px;
+        left: 20px;
+    }
+    #parent-3>div>div:nth-child(3)>button:nth-child(4){
+        width: 90px;
+        height: 28px;
+        font-size: 12px;
+        position: absolute;
+        top: 155px;
+        left: 20px;
+        border-radius: 10px;
+        color: white;
+        border: 1px solid white;
+        background-color:rgba(252, 252, 252,0.1);
+        cursor: pointer;
+    }
+    #parent-3>div>div:nth-child(4)>p:nth-child(1){
+        font-size: 15px;
+        font-weight: 700;
+        position: absolute;
+        top: 44px;
+        left: 150px;
+    }
+     #parent-3>div>div:nth-child(4)>p:nth-child(2){
+        font-size: 16px;
+        font-weight: 500;
+        position: absolute;
+        top: 102px;
+        left: 149px;
+    }
+    #parent-3>div>div:nth-child(4)>button:nth-child(4){
+        width: 90px;
+        height: 28px;
+        font-size: 12px;
+        position: absolute;
+        top: 160px;
+        left: 161px;
+        border-radius: 10px;
+        color: white;
+        border: 1px solid white;
+        background-color:rgba(252, 252, 252,0.1);
+        cursor: pointer;
+    }
+    #parent-3>div>div:nth-child(5)>p:nth-child(1){
+        font-size: 15px;
+        font-weight: 700;
+        position: absolute;
+        top: 45px;
+        left: 20px;
+    }
+    #parent-3>div>div:nth-child(5)>p:nth-child(2){
+        font-size: 16px;
+        font-weight: 500;
+        position: absolute;
+        top: 98px;
+        left: 20px;
+    }
+    #parent-3>div>div:nth-child(5)>button:nth-child(4){
+        width: 90px;
+        height: 28px;
+        font-size: 12px;
+        position: absolute;
+        top: 155px;
+        left: 20px;
+        border-radius: 10px;
+        color: white;
+        border: 1px solid white;
+        background-color:rgba(252, 252, 252,0.1);
+        cursor: pointer;
+    }
+    #parent-3>div>div:nth-child(6)>p:nth-child(1){
+        font-size: 15px;
+        font-weight: 700;
+        position: absolute;
+        top: 60px;
+        left: 175px;
+    }
+    #parent-3>div>div:nth-child(6)>p:nth-child(2){
+        font-size: 16px;
+        font-weight: 500;
+        position: absolute;
+        top: 89px;
+        left: 175px;
+    }
+    #parent-3>div>div:nth-child(6)>button:nth-child(4){
+        width: 90px;
+        height: 28px;
+        font-size: 12px;
+        position: absolute;
+        top: 151px;
+        left: 172px;
+        border-radius: 10px;
+        color: white;
+        border: 1px solid white;
+        background-color:rgba(252, 252, 252,0.1);
+        cursor: pointer;
+    }
+    #parent-3>div>div>i:nth-child(3){
+        display: none;
+    }
+}
+@media (min-width:600px) and (max-width:767px){
+    #parent-3{
+        width: 100%;
+        height: 1325px;
+        /* border: 1px solid black; */
+        display: flex;
+        justify-content: center;
+    }
+    #parent-3>div{
+        width: 500px;
+        height: 1300px;
+        /* border: 1px solid black; */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        position: relative;
+    }
+    #parent-3>div>div:nth-child(1){
+        width: 200px;
+        height: 50px;
+        /* background-color: aqua; */
+        position: absolute;
+        top: 40px;
+        left: 150px;
+    }
+    #parent-3>div>div:nth-child(1)>p{
+        font-size: 25px;
+    }
+    #parent-3>div>div:nth-child(2){
+        width: 300px;
+        height: 200px;
+        background-image: url("/Assets/E-commerce_Assets/bigsalezone1.jpg");
+        background-repeat: no-repeat;
+        background-position: right;
+        background-size: cover;
+        position: absolute;
+        top: 110px;
+        border-radius: 25px;
+        color: white;
+    }
+    #parent-3>div>div:nth-child(3){
+        width: 300px;
+        height: 200px;
+        background-image: url("/Assets/E-commerce_Assets/bigsalezone2.jpg");
+        background-repeat: no-repeat;
+        background-position: left;
+        background-size: cover;
+        position: absolute;
+        top: 345px;
+        border-radius: 25px;
+        color: white;
+    }
+    #parent-3>div>div:nth-child(4){
+        width: 300px;
+        height: 200px;
+        background-image: url("/Assets/E-commerce_Assets/bigsalezone3.jpg");
+        background-repeat: no-repeat;
+        background-position: left;
+        background-size: cover;
+        position: absolute;
+        top: 580px;
+        border-radius: 25px;
+        color: white;
+    }
+    #parent-3>div>div:nth-child(5){
+        width: 300px;
+        height: 200px;
+        background-image: url("/Assets/E-commerce_Assets/bigsalezone4.jpg");
+        background-repeat: no-repeat;
+        background-position: left;
+        background-size: cover;
+        position: absolute;
+        top:814px;
+        border-radius: 25px;
+        color: white;
+    }
+    #parent-3>div>div:nth-child(6){
+        width: 300px;
+        height: 200px;
+        background-image: url("/Assets/E-commerce_Assets/bigsalezone5.jpg");
+        background-repeat: no-repeat;
+        background-position: right;
+        background-size: cover;
+        position: absolute;
+        bottom: 48px;
+        border-radius: 25px; 
+        color: white; 
+    }
+    #parent-3>div>div:nth-child(2)>p:nth-child(1){
+        font-size: 15px;
+        font-weight: 700;
+        position: absolute;
+        top: 45px;
+        left: 175px;
+    }
+    #parent-3>div>div:nth-child(2)>p:nth-child(2){
+        font-size: 16px;
+        font-weight: 500;
+        position: absolute;
+        top: 89px;
+        left: 175px;
+    }
+    #parent-3>div>div:nth-child(2)>button:nth-child(4){
+        width: 90px;
+        height: 28px;
+        font-size: 12px;
+        position: absolute;
+        top: 151px;
+        left: 172px;
+        border-radius: 10px;
+        color: white;
+        border: 1px solid white;
+        background-color:rgba(252, 252, 252,0.1);
+        cursor: pointer;
+    }
+    #parent-3>div>div:nth-child(3)>p:nth-child(1){
+        font-size: 15px;
+        font-weight: 700;
+        position: absolute;
+        top: 45px;
+        left: 20px;
+    }
+    #parent-3>div>div:nth-child(3)>p:nth-child(2){
+        font-size: 16px;
+        font-weight: 500;
+        position: absolute;
+        top: 98px;
+        left: 20px;
+    }
+    #parent-3>div>div:nth-child(3)>button:nth-child(4){
+        width: 90px;
+        height: 28px;
+        font-size: 12px;
+        position: absolute;
+        top: 155px;
+        left: 20px;
+        border-radius: 10px;
+        color: white;
+        border: 1px solid white;
+        background-color:rgba(252, 252, 252,0.1);
+        cursor: pointer;
+    }
+    #parent-3>div>div:nth-child(4)>p:nth-child(1){
+        font-size: 15px;
+        font-weight: 700;
+        position: absolute;
+        top: 44px;
+        left: 150px;
+    }
+     #parent-3>div>div:nth-child(4)>p:nth-child(2){
+        font-size: 16px;
+        font-weight: 500;
+        position: absolute;
+        top: 102px;
+        left: 149px;
+    }
+    #parent-3>div>div:nth-child(4)>button:nth-child(4){
+        width: 90px;
+        height: 28px;
+        font-size: 12px;
+        position: absolute;
+        top: 160px;
+        left: 161px;
+        border-radius: 10px;
+        color: white;
+        border: 1px solid white;
+        background-color:rgba(252, 252, 252,0.1);
+        cursor: pointer;
+    }
+    #parent-3>div>div:nth-child(5)>p:nth-child(1){
+        font-size: 15px;
+        font-weight: 700;
+        position: absolute;
+        top: 45px;
+        left: 20px;
+    }
+    #parent-3>div>div:nth-child(5)>p:nth-child(2){
+        font-size: 16px;
+        font-weight: 500;
+        position: absolute;
+        top: 98px;
+        left: 20px;
+    }
+    #parent-3>div>div:nth-child(5)>button:nth-child(4){
+        width: 90px;
+        height: 28px;
+        font-size: 12px;
+        position: absolute;
+        top: 155px;
+        left: 20px;
+        border-radius: 10px;
+        color: white;
+        border: 1px solid white;
+        background-color:rgba(252, 252, 252,0.1);
+        cursor: pointer;
+    }
+    #parent-3>div>div:nth-child(6)>p:nth-child(1){
+        font-size: 15px;
+        font-weight: 700;
+        position: absolute;
+        top: 60px;
+        left: 175px;
+    }
+    #parent-3>div>div:nth-child(6)>p:nth-child(2){
+        font-size: 16px;
+        font-weight: 500;
+        position: absolute;
+        top: 89px;
+        left: 175px;
+    }
+    #parent-3>div>div:nth-child(6)>button:nth-child(4){
+        width: 90px;
+        height: 28px;
+        font-size: 12px;
+        position: absolute;
+        top: 151px;
+        left: 172px;
+        border-radius: 10px;
+        color: white;
+        border: 1px solid white;
+        background-color:rgba(252, 252, 252,0.1);
+        cursor: pointer;
+    }
+    #parent-3>div>div>i:nth-child(3){
+        display: none;
+    }
+}
+@media (min-width:767px) and (max-width:1200px){
+    #parent-3{
+        width: 100%;
+        height: 945px;
+        /* border: 1px solid black; */
+        display: flex;
+        justify-content: center;
+    }
+    #parent-3>div{
+        width: 750px;
+        height: 945px;
+        /* border: 1px solid black; */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        position: relative;
+    }
+    #parent-3>div>div:nth-child(1){
+        width: 200px;
+        height: 50px;
+        /* background-color: aqua; */
+        position: absolute;
+        top: 15px;
+        left: 256px;
+    }
+    #parent-3>div>div:nth-child(1)>p{
+        font-size: 25px;
+    }
+    #parent-3>div>div:nth-child(2){
+        width: 300px;
+        height: 200px;
+        background-image: url("/Assets/E-commerce_Assets/bigsalezone1.jpg");
+        background-repeat: no-repeat;
+        background-position: right;
+        background-size: cover;
+        position: absolute;
+        top: 110px;
+        left: 20px;
+        border-radius: 25px;
+        color: white;
+    }
+    #parent-3>div>div:nth-child(3){
+        width: 300px;
+        height: 200px;
+        background-image: url("/Assets/E-commerce_Assets/bigsalezone2.jpg");
+        background-repeat: no-repeat;
+        background-position: left;
+        background-size: cover;
+        position: absolute;
+        top: 110px;
+        left: 420px;
+        border-radius: 25px;
+        color: white;
+    }
+    #parent-3>div>div:nth-child(4){
+        width: 300px;
+        height: 200px;
+        background-image: url("/Assets/E-commerce_Assets/bigsalezone3.jpg");
+        background-repeat: no-repeat;
+        background-position: left;
+        background-size: cover;
+        position: absolute;
+        top: 400px;
+        left: 20px;
+        border-radius: 25px;
+        color: white;
+    }
+    #parent-3>div>div:nth-child(5){
+        width: 300px;
+        height: 200px;
+        background-image: url("/Assets/E-commerce_Assets/bigsalezone4.jpg");
+        background-repeat: no-repeat;
+        background-position: left;
+        background-size: cover;
+        position: absolute;
+        top:400px;
+        left: 420px;
+        border-radius: 25px;
+        color: white;
+    }
+    #parent-3>div>div:nth-child(6){
+        width: 300px;
+        height: 200px;
+        background-image: url("/Assets/E-commerce_Assets/bigsalezone5.jpg");
+        background-repeat: no-repeat;
+        background-position: right;
+        background-size: cover;
+        position: absolute;
+        top: 665px;
+        border-radius: 25px; 
+        color: white; 
+    }
+    #parent-3>div>div:nth-child(2)>p:nth-child(1){
+        font-size: 15px;
+        font-weight: 700;
+        position: absolute;
+        top: 45px;
+        left: 175px;
+    }
+    #parent-3>div>div:nth-child(2)>p:nth-child(2){
+        font-size: 16px;
+        font-weight: 500;
+        position: absolute;
+        top: 89px;
+        left: 175px;
+    }
+    #parent-3>div>div:nth-child(2)>button:nth-child(4){
+        width: 90px;
+        height: 28px;
+        font-size: 12px;
+        position: absolute;
+        top: 151px;
+        left: 172px;
+        border-radius: 10px;
+        color: white;
+        border: 1px solid white;
+        background-color:rgba(252, 252, 252,0.1);
+        cursor: pointer;
+    }
+    #parent-3>div>div:nth-child(3)>p:nth-child(1){
+        font-size: 15px;
+        font-weight: 700;
+        position: absolute;
+        top: 45px;
+        left: 20px;
+    }
+    #parent-3>div>div:nth-child(3)>p:nth-child(2){
+        font-size: 16px;
+        font-weight: 500;
+        position: absolute;
+        top: 98px;
+        left: 20px;
+    }
+    #parent-3>div>div:nth-child(3)>button:nth-child(4){
+        width: 90px;
+        height: 28px;
+        font-size: 12px;
+        position: absolute;
+        top: 155px;
+        left: 20px;
+        border-radius: 10px;
+        color: white;
+        border: 1px solid white;
+        background-color:rgba(252, 252, 252,0.1);
+        cursor: pointer;
+    }
+    #parent-3>div>div:nth-child(4)>p:nth-child(1){
+        font-size: 15px;
+        font-weight: 700;
+        position: absolute;
+        top: 44px;
+        left: 150px;
+    }
+     #parent-3>div>div:nth-child(4)>p:nth-child(2){
+        font-size: 16px;
+        font-weight: 500;
+        position: absolute;
+        top: 102px;
+        left: 149px;
+    }
+    #parent-3>div>div:nth-child(4)>button:nth-child(4){
+        width: 90px;
+        height: 28px;
+        font-size: 12px;
+        position: absolute;
+        top: 160px;
+        left: 161px;
+        border-radius: 10px;
+        color: white;
+        border: 1px solid white;
+        background-color:rgba(252, 252, 252,0.1);
+        cursor: pointer;
+    }
+    #parent-3>div>div:nth-child(5)>p:nth-child(1){
+        font-size: 15px;
+        font-weight: 700;
+        position: absolute;
+        top: 45px;
+        left: 20px;
+    }
+    #parent-3>div>div:nth-child(5)>p:nth-child(2){
+        font-size: 16px;
+        font-weight: 500;
+        position: absolute;
+        top: 98px;
+        left: 20px;
+    }
+    #parent-3>div>div:nth-child(5)>button:nth-child(4){
+        width: 90px;
+        height: 28px;
+        font-size: 12px;
+        position: absolute;
+        top: 155px;
+        left: 20px;
+        border-radius: 10px;
+        color: white;
+        border: 1px solid white;
+        background-color:rgba(252, 252, 252,0.1);
+        cursor: pointer;
+    }
+    #parent-3>div>div:nth-child(6)>p:nth-child(1){
+        font-size: 15px;
+        font-weight: 700;
+        position: absolute;
+        top: 60px;
+        left: 175px;
+    }
+    #parent-3>div>div:nth-child(6)>p:nth-child(2){
+        font-size: 16px;
+        font-weight: 500;
+        position: absolute;
+        top: 89px;
+        left: 175px;
+    }
+    #parent-3>div>div:nth-child(6)>button:nth-child(4){
+        width: 90px;
+        height: 28px;
+        font-size: 12px;
+        position: absolute;
+        top: 151px;
+        left: 172px;
+        border-radius: 10px;
+        color: white;
+        border: 1px solid white;
+        background-color:rgba(252, 252, 252,0.1);
+        cursor: pointer;
+    }
+    #parent-3>div>div>i:nth-child(3){
+        display: none;
+    }
+}
+@media (min-width:1200px) and (max-width:1600px){
+    #parent-3{
+        width: 100%;
+        height: 855px;
+        /* border: 1px solid black; */
+        display: flex;
+        justify-content: center;
+    }
+    #parent-3>div{
+        width: 1400px;
+        height: 945px;
+        /* border: 1px solid black; */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        position: relative;
+    }
+    #parent-3>div>div:nth-child(1){
+        width: 300px;
+        height: 50px;
+        /* background-color: aqua; */
+        position: absolute;
+        top: 5px;
+        left: 612px;
+    }
+    #parent-3>div>div:nth-child(1)>p{
+        font-size: 35px;
+    }
+    #parent-3>div>div:nth-child(2){
+        width: 400px;
+        height: 280px;
+        background-image: url("/Assets/E-commerce_Assets/bigsalezone1.jpg");
+        background-repeat: no-repeat;
+        background-position: right;
+        background-size: cover;
+        position: absolute;
+        top: 110px;
+        left: 20px;
+        border-radius: 25px;
+        color: white;
+    }
+    #parent-3>div>div:nth-child(3){
+        width: 400px;
+        height: 280px;
+        background-image: url("/Assets/E-commerce_Assets/bigsalezone2.jpg");
+        background-repeat: no-repeat;
+        background-position: left;
+        background-size: cover;
+        position: absolute;
+        top: 110px;
+        left: 500px;
+        border-radius: 25px;
+        color: white;
+    }
+    #parent-3>div>div:nth-child(4){
+        width: 400px;
+        height: 280px;
+        background-image: url("/Assets/E-commerce_Assets/bigsalezone3.jpg");
+        background-repeat: no-repeat;
+        background-position: left;
+        background-size: cover;
+        position: absolute;
+        top: 110px;
+        left: 985px;
+        border-radius: 25px;
+        color: white;
+    }
+    #parent-3>div>div:nth-child(5){
+        width: 400px;
+        height: 280px;
+        background-image: url("/Assets/E-commerce_Assets/bigsalezone4.jpg");
+        background-repeat: no-repeat;
+        background-position: left;
+        background-size: cover;
+        position: absolute;
+        top: 469px;
+        left: 255px;
+        border-radius: 25px;
+        color: white;
+    }
+    #parent-3>div>div:nth-child(6){
+        width: 400px;
+        height: 280px;
+        background-image: url("/Assets/E-commerce_Assets/bigsalezone5.jpg");
+        background-repeat: no-repeat;
+        background-position: right;
+        background-size: cover;
+        position: absolute;
+        top: 468px;
+        left: 750px;
+        border-radius: 25px; 
+        color: white; 
+    }
+    #parent-3>div>div:nth-child(2)>p:nth-child(1){
+        font-size: 25px;
+        font-weight: 700;
+        position: absolute;
+        top: 67px;
+        left: 240px;
+    }
+    #parent-3>div>div:nth-child(2)>p:nth-child(2){
+        font-size: 16px;
+        font-weight: 500;
+        position: absolute;
+        top: 175px;
+        left: 255px;
+    }
+    #parent-3>div>div:nth-child(2)>button:nth-child(4){
+        width: 90px;
+        height: 28px;
+        font-size: 12px;
+        position: absolute;
+        top: 225px;
+        left: 265px;
+        border-radius: 10px;
+        color: white;
+        border: 1px solid white;
+        background-color:rgba(252, 252, 252,0.1);
+        cursor: pointer;
+    }
+    #parent-3>div>div:nth-child(3)>p:nth-child(1){
+        font-size: 25px;
+        font-weight: 700;
+        position: absolute;
+        top: 65px;
+        left: 20px;
+    }
+    #parent-3>div>div:nth-child(3)>p:nth-child(2){
+        font-size: 16px;
+        font-weight: 500;
+        position: absolute;
+        top: 158px;
+        left: 20px;
+    }
+    #parent-3>div>div:nth-child(3)>button:nth-child(4){
+        width: 90px;
+        height: 28px;
+        font-size: 12px;
+        position: absolute;
+        top: 225px;
+        left: 20px;
+        border-radius: 10px;
+        color: white;
+        border: 1px solid white;
+        background-color:rgba(252, 252, 252,0.1);
+        cursor: pointer;
+    }
+    #parent-3>div>div:nth-child(4)>p:nth-child(1){
+        font-size: 25px;
+        font-weight: 700;
+        position: absolute;
+        top: 70px;
+        left: 254px;
+    }
+     #parent-3>div>div:nth-child(4)>p:nth-child(2){
+        font-size: 16px;
+        font-weight: 500;
+        position: absolute;
+        top: 165px;
+        left: 252px;
+    }
+    #parent-3>div>div:nth-child(4)>button:nth-child(4){
+        width: 90px;
+        height: 28px;
+        font-size: 12px;
+        position: absolute;
+         top: 225px;
+        left: 251px;
+        border-radius: 10px;
+        color: white;
+        border: 1px solid white;
+        background-color:rgba(252, 252, 252,0.1);
+        cursor: pointer;
+    }
+    #parent-3>div>div:nth-child(5)>p:nth-child(1){
+        font-size: 25px;
+        font-weight: 700;
+        position: absolute;
+        top: 70px;
+        left: 20px;
+    }
+    #parent-3>div>div:nth-child(5)>p:nth-child(2){
+        font-size: 16px;
+        font-weight: 500;
+        position: absolute;
+        top: 158px;
+        left: 20px;
+    }
+    #parent-3>div>div:nth-child(5)>button:nth-child(4){
+        width: 90px;
+        height: 28px;
+        font-size: 12px;
+        position: absolute;
+        top: 225px;
+        left: 20px;
+        border-radius: 10px;
+        color: white;
+        border: 1px solid white;
+        background-color:rgba(252, 252, 252,0.1);
+        cursor: pointer;
+    }
+    #parent-3>div>div:nth-child(6)>p:nth-child(1){
+        font-size: 25px;
+        font-weight: 700;
+        position: absolute;
+        top: 100px;
+        left: 240px;
+    }
+    #parent-3>div>div:nth-child(6)>p:nth-child(2){
+        font-size: 16px;
+        font-weight: 500;
+        position: absolute;
+        top: 158px;
+        left: 272px;
+    }
+    #parent-3>div>div:nth-child(6)>button:nth-child(4){
+        width: 90px;
+        height: 28px;
+        font-size: 12px;
+        position: absolute;
+        top: 225px;
+        left: 265px;
+        border-radius: 10px;
+        color: white;
+        border: 1px solid white;
+        background-color:rgba(252, 252, 252,0.1);
+        cursor: pointer;
+    }
+    #parent-3>div>div>i:nth-child(3){
+        display: none;
+    }
+}
