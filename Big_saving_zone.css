@@ -29,7 +29,7 @@
     #parent-3>div>div:nth-child(2){
         width: 275px;
         height: 200px;
-        background-image: url("/Assets/E-commerce_Assets/bigsalezone1.jpg");
+        background-image: url("./Assets/bigsalezone1.jpg");
         background-repeat: no-repeat;
         background-position: right;
         background-size: cover;
@@ -41,7 +41,7 @@
     #parent-3>div>div:nth-child(3){
         width: 275px;
         height: 200px;
-        background-image: url("/Assets/E-commerce_Assets/bigsalezone2.jpg");
+        background-image: url("./Assets/bigsalezone2.jpg");
         background-repeat: no-repeat;
         background-position: left;
         background-size: cover;
@@ -53,7 +53,7 @@
     #parent-3>div>div:nth-child(4){
         width: 275px;
         height: 200px;
-        background-image: url("/Assets/E-commerce_Assets/bigsalezone3.jpg");
+        background-image: url("./Assets/bigsalezone3.jpg");
         background-repeat: no-repeat;
         background-position: left;
         background-size: cover;
@@ -65,7 +65,7 @@
     #parent-3>div>div:nth-child(5){
         width: 275px;
         height: 200px;
-        background-image: url("/Assets/E-commerce_Assets/bigsalezone4.jpg");
+        background-image: url("./Assets/bigsalezone4.jpg");
         background-repeat: no-repeat;
         background-position: left;
         background-size: cover;
@@ -77,7 +77,7 @@
     #parent-3>div>div:nth-child(6){
         width: 275px;
         height: 200px;
-        background-image: url("/Assets/E-commerce_Assets/bigsalezone5.jpg");
+        background-image: url("./Assets/bigsalezone5.jpg");
         background-repeat: no-repeat;
         background-position: right;
         background-size: cover;
@@ -256,7 +256,7 @@
     #parent-3>div>div:nth-child(2){
         width: 300px;
         height: 200px;
-        background-image: url("/Assets/E-commerce_Assets/bigsalezone1.jpg");
+        background-image: url("./Assets/bigsalezone1.jpg");
         background-repeat: no-repeat;
         background-position: right;
         background-size: cover;
@@ -268,7 +268,7 @@
     #parent-3>div>div:nth-child(3){
         width: 300px;
         height: 200px;
-        background-image: url("/Assets/E-commerce_Assets/bigsalezone2.jpg");
+        background-image: url("./Assets/bigsalezone2.jpg");
         background-repeat: no-repeat;
         background-position: left;
         background-size: cover;
@@ -280,7 +280,7 @@
     #parent-3>div>div:nth-child(4){
         width: 300px;
         height: 200px;
-        background-image: url("/Assets/E-commerce_Assets/bigsalezone3.jpg");
+        background-image: url("./Assets/bigsalezone3.jpg");
         background-repeat: no-repeat;
         background-position: left;
         background-size: cover;
@@ -292,7 +292,7 @@
     #parent-3>div>div:nth-child(5){
         width: 300px;
         height: 200px;
-        background-image: url("/Assets/E-commerce_Assets/bigsalezone4.jpg");
+        background-image: url("./Assets/bigsalezone4.jpg");
         background-repeat: no-repeat;
         background-position: left;
         background-size: cover;
@@ -304,7 +304,7 @@
     #parent-3>div>div:nth-child(6){
         width: 300px;
         height: 200px;
-        background-image: url("/Assets/E-commerce_Assets/bigsalezone5.jpg");
+        background-image: url("./Assets/bigsalezone5.jpg");
         background-repeat: no-repeat;
         background-position: right;
         background-size: cover;
@@ -483,7 +483,7 @@
     #parent-3>div>div:nth-child(2){
         width: 300px;
         height: 200px;
-        background-image: url("/Assets/E-commerce_Assets/bigsalezone1.jpg");
+        background-image: url("./Assets/bigsalezone1.jpg");
         background-repeat: no-repeat;
         background-position: right;
         background-size: cover;
@@ -495,7 +495,7 @@
     #parent-3>div>div:nth-child(3){
         width: 300px;
         height: 200px;
-        background-image: url("/Assets/E-commerce_Assets/bigsalezone2.jpg");
+        background-image: url("./Assets/bigsalezone2.jpg");
         background-repeat: no-repeat;
         background-position: left;
         background-size: cover;
@@ -507,7 +507,7 @@
     #parent-3>div>div:nth-child(4){
         width: 300px;
         height: 200px;
-        background-image: url("/Assets/E-commerce_Assets/bigsalezone3.jpg");
+        background-image: url("./Assets/bigsalezone3.jpg");
         background-repeat: no-repeat;
         background-position: left;
         background-size: cover;
@@ -519,7 +519,7 @@
     #parent-3>div>div:nth-child(5){
         width: 300px;
         height: 200px;
-        background-image: url("/Assets/E-commerce_Assets/bigsalezone4.jpg");
+        background-image: url("./Assets/bigsalezone4.jpg");
         background-repeat: no-repeat;
         background-position: left;
         background-size: cover;
@@ -531,7 +531,7 @@
     #parent-3>div>div:nth-child(6){
         width: 300px;
         height: 200px;
-        background-image: url("/Assets/E-commerce_Assets/bigsalezone5.jpg");
+        background-image: url("./Assets/bigsalezone5.jpg");
         background-repeat: no-repeat;
         background-position: right;
         background-size: cover;
@@ -710,7 +710,7 @@
     #parent-3>div>div:nth-child(2){
         width: 300px;
         height: 200px;
-        background-image: url("/Assets/E-commerce_Assets/bigsalezone1.jpg");
+        background-image: url("./Assets/bigsalezone1.jpg");
         background-repeat: no-repeat;
         background-position: right;
         background-size: cover;
@@ -723,7 +723,7 @@
     #parent-3>div>div:nth-child(3){
         width: 300px;
         height: 200px;
-        background-image: url("/Assets/E-commerce_Assets/bigsalezone2.jpg");
+        background-image: url("./Assets/bigsalezone2.jpg");
         background-repeat: no-repeat;
         background-position: left;
         background-size: cover;
@@ -736,7 +736,7 @@
     #parent-3>div>div:nth-child(4){
         width: 300px;
         height: 200px;
-        background-image: url("/Assets/E-commerce_Assets/bigsalezone3.jpg");
+        background-image: url("./Assets/bigsalezone3.jpg");
         background-repeat: no-repeat;
         background-position: left;
         background-size: cover;
@@ -749,7 +749,7 @@
     #parent-3>div>div:nth-child(5){
         width: 300px;
         height: 200px;
-        background-image: url("/Assets/E-commerce_Assets/bigsalezone4.jpg");
+        background-image: url("./Assets/bigsalezone4.jpg");
         background-repeat: no-repeat;
         background-position: left;
         background-size: cover;
@@ -762,7 +762,7 @@
     #parent-3>div>div:nth-child(6){
         width: 300px;
         height: 200px;
-        background-image: url("/Assets/E-commerce_Assets/bigsalezone5.jpg");
+        background-image: url("./Assets/bigsalezone5.jpg");
         background-repeat: no-repeat;
         background-position: right;
         background-size: cover;
@@ -941,7 +941,7 @@
     #parent-3>div>div:nth-child(2){
         width: 400px;
         height: 280px;
-        background-image: url("/Assets/E-commerce_Assets/bigsalezone1.jpg");
+        background-image: url("./Assets/bigsalezone1.jpg");
         background-repeat: no-repeat;
         background-position: right;
         background-size: cover;
@@ -954,7 +954,7 @@
     #parent-3>div>div:nth-child(3){
         width: 400px;
         height: 280px;
-        background-image: url("/Assets/E-commerce_Assets/bigsalezone2.jpg");
+        background-image: url("./Assets/bigsalezone2.jpg");
         background-repeat: no-repeat;
         background-position: left;
         background-size: cover;
@@ -967,7 +967,7 @@
     #parent-3>div>div:nth-child(4){
         width: 400px;
         height: 280px;
-        background-image: url("/Assets/E-commerce_Assets/bigsalezone3.jpg");
+        background-image: url("./Assets/bigsalezone3.jpg");
         background-repeat: no-repeat;
         background-position: left;
         background-size: cover;
@@ -980,7 +980,7 @@
     #parent-3>div>div:nth-child(5){
         width: 400px;
         height: 280px;
-        background-image: url("/Assets/E-commerce_Assets/bigsalezone4.jpg");
+        background-image: url("./Assets/bigsalezone4.jpg");
         background-repeat: no-repeat;
         background-position: left;
         background-size: cover;
@@ -993,7 +993,7 @@
     #parent-3>div>div:nth-child(6){
         width: 400px;
         height: 280px;
-        background-image: url("/Assets/E-commerce_Assets/bigsalezone5.jpg");
+        background-image: url("./Assets/bigsalezone5.jpg");
         background-repeat: no-repeat;
         background-position: right;
         background-size: cover;

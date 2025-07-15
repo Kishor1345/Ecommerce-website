@@ -101,7 +101,7 @@
         width: 400px;
         height: 275px;
         /* border: 1px solid white; */
-        background-image: url("/Assets/E-commerce_Assets/1.jpg");
+        background-image: url("./Assets/1.jpg");
         background-repeat: no-repeat;
         background-position:top;
         background-size: cover;
@@ -182,7 +182,7 @@
         width: 400px;
         height: 275px;
         /* border: 1px solid white; */
-        background-image: url("/Assets/E-commerce_Assets/1.jpg");
+        background-image: url("./Assets/1.jpg");
         background-repeat: no-repeat;
         background-position:top;
         background-size: cover;
@@ -263,7 +263,7 @@
         width: 300px;
         height: 300px;
         /* border: 1px solid white; */
-        background-image: url("/Assets/E-commerce_Assets/1.jpg");
+        background-image: url("./Assets/1.jpg");
         background-repeat: no-repeat;
         background-position:top;
         background-size: cover;
